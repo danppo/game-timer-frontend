@@ -1,0 +1,9 @@
+@import "./app-variables";
+@import "./parts/navBarPart/navBarPart";
+@import "./components/button/ActioButton.scss";
+
+main {
+  max-width: 600px;
+  margin: 0 auto;
+}
+
